@@ -2,7 +2,7 @@
 
 ## Important Notice
 
-Due to issues I had with github I was not able to post the datasets/models into folders on github as I would have liked. The code is still there in the notebooks for someone to recreate with all the data/models saved.
+Due to issues I had with github I was not able to post the datasets/models into folders on github as I would have liked. The code for everything to be saved is still there in the notebooks for someone to recreate with all the data/models saved.
 
 ## Project Task
 
