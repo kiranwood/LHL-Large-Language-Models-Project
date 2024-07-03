@@ -31,7 +31,7 @@ Where as with the DistilBERT model it had an overall score of around `0.9265` wi
 ## Hyperparameters
 
 Due to each training for a model taking an hour to 2 hours of my time I was not able to test multiple different parameters as I would have liked. If I had more time for this project, this would be something I'd go into more.
-The parameters I did change was adding a weight decay and warmup-steps. Although this did not significantly change the model at all.
+The parameters I did change was adding a `weight decay` and `warmup-steps`. Although this did not significantly change the model at all.
 
 ## Final Model Link
 
